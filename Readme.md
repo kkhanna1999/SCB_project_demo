@@ -11,26 +11,26 @@ Since it's a project done under an organization we are bound not to share code ,
 Here are some screenshots of the app demonstrating some core features.
 
 <h3>Member Login</h3><br>
-<img src="https://i.imgur.com/obCY8Q0.jpg">
+<img src="https://i.imgur.com/obCY8Q0.jpg" width="250" height="500">
 <br>
 <h3>Bottom Drawer</h3>
 Here data categorization is being done for income/expenses for current month<br>
-<img src="https://i.imgur.com/HfHVRgk.jpg">
+<img src="https://i.imgur.com/HfHVRgk.jpg" width="250" height="500">
 <br>
 <h3>Home Page</h3>
-<img src="https://i.imgur.com/hCHGPK9.jpg">
+<img src="https://i.imgur.com/hCHGPK9.jpg" width="250" height="500">
 <br>
 <h3>Home Page</h3>
 <h4>We have a speed dial on every page for easy navigation for user</h4> 
-<img src="https://i.imgur.com/LgA5R91.jpg">
+<img src="https://i.imgur.com/LgA5R91.jpg" width="250" height="500">
 <br>
 <h3>Goal Feed</h3>
 <h4>Similiar Feed for transactions and Reminders(for Bills)</h4>
-<img src="https://i.imgur.com/F11CcSo.jpg">
+<img src="https://i.imgur.com/F11CcSo.jpg" width="250" height="500">
 <br>
 <h3>Add Transaction</h3>
 <h4>Similiar Add Page for Goal and Reminders(for Bills)</h4>
-<img src="https://i.imgur.com/bPmeKRo.jpg">
+<img src="https://i.imgur.com/bPmeKRo.jpg" width="250" height="500">
 <br>
 
 For more visuals kindly visit Repo - https://github.com/kkhanna1999/SCB_project_demo/tree/visuals/SCB_Demo
