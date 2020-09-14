@@ -5,7 +5,7 @@
 - There are REST APIs that returns every information required to be displayed to client side using URL endpoint to the backend using Flask REST Framework.<br>
 - Made for collecting user's Transaction details and to help user with his/her personal Finance managment & Goal saving.<br>
 
-Since it's a project done under an organization we are bound not to share code , Link for the private repo - https://github.com/kkhanna1999/SCB-PFM/tree/
+Since it's a project done under an organization we are bound not to share code , Link for the private repo - https://github.com/kkhanna1999/SCB-PFM/tree/Comp_Workflow
 
 ## Screenshots
 Here are some screenshots of the app demonstrating some core features.
