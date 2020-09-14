@@ -32,3 +32,5 @@ Here data categorization is being done for income/expenses for current month<br>
 <h4>Similiar Add Page for Goal and Reminders(for Bills)</h4>
 <img src="https://i.imgur.com/bPmeKRo.jpg">
 <br>
+
+For more visuals kindly visit Repo - https://github.com/kkhanna1999/SCB_project_demo/tree/visuals/SCB_Demo
